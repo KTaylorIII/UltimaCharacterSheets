@@ -1,0 +1,52 @@
+# Source: Fabula Ultima TTJRPG
+ranged:
+  - name: 'Sling'
+    zenitCost: 10
+    handedness: 'Two-handed'
+    firstAccuracyAttribute: 'Dexterity'
+    secondAccuracyAttribute: 'Dexterity'
+    accuracyModifier: 0
+    damageModifier: 0
+    damageType: 'Physical'
+    breaksAfterAttack: false
+    weight: 1
+  - name: 'Shortbow'
+    zenitCost: 200
+    handedness: 'Two-handed'
+    firstAccuracyAttribute: 'Dexterity'
+    secondAccuracyAttribute: 'Dexterity'
+    accuracyModifier: 0
+    damageModifier: 8
+    damageType: 'Physical'
+    breaksAfterAttack: false
+    weight: 1
+  - name: 'Crossbow'
+    zenitCost: 200
+    handedness: 'Two-handed'
+    firstAccuracyAttribute: 'Dexterity'
+    secondAccuracyAttribute: 'Insight'
+    accuracyModifier: 0
+    damageModifier: 8
+    damageType: 'Physical'
+    breaksAfterAttack: false
+    weight: 1
+  - name: 'Kalashnikov'
+    zenitCost: 2000
+    handedness: 'Two-handed'
+    firstAccuracyAttribute: 'Dexterity'
+    secondAccuracyAttribute: 'Insight'
+    accuracyModifier: -2
+    damageModifier: 14
+    damageType: 'Physical'
+    breaksAfterAttack: false
+    weight: 2
+  - name: 'Stoner'
+    zenitCost: 2000
+    handedness: 'Two-handed'
+    firstAccuracyAttribute: 'Dexterity'
+    secondAccuracyAttribute: 'Dexterity'
+    accuracyModifier: -2
+    damageModifier: 14
+    damageType: 'Physical'
+    breaksAfterAttack: false
+    weight: 2
