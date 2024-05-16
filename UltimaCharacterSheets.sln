@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimaCharacterSheets.Domai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimaCharacterSheets.Api", "UltimaCharacterSheets.Api\UltimaCharacterSheets.Api.csproj", "{059B4176-66D2-4788-9A50-7DBD718472D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimaCharacterSheets.DesktopApp", "UltimaCharacterSheets.DesktopApp\UltimaCharacterSheets.DesktopApp.csproj", "{3EFEECA9-8018-48D6-BC88-A568EFB72617}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{059B4176-66D2-4788-9A50-7DBD718472D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{059B4176-66D2-4788-9A50-7DBD718472D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{059B4176-66D2-4788-9A50-7DBD718472D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EFEECA9-8018-48D6-BC88-A568EFB72617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFEECA9-8018-48D6-BC88-A568EFB72617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFEECA9-8018-48D6-BC88-A568EFB72617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFEECA9-8018-48D6-BC88-A568EFB72617}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
